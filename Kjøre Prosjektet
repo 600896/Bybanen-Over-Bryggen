@@ -1,0 +1,6 @@
+#Kjøre prosjektet"
+
+skriv i terminalen på webStorm:
+cd BybanenOverBryggen
+npm install
+npm run dev
